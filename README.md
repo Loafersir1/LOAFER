@@ -21,7 +21,7 @@ LOAFER Bot Multi Device is a automated whatsapp bot created by <a href="https://
 - FORK THE REPOSITORY [Here](https://github.com/Loafersir1/LOAFER)
 
 ## `Scan QR Code For Session`
-[![LOAFER SER Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@WINDROYT/NULL-MD#index.js)
+[![LOAFER SER Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@LOAFER/SER-MD#index.js)
 
 ## ` BUILDPACKS`
 
@@ -30,7 +30,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NULLMODZ/NULL-MODZ-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Loafersir1/LOAFER)
 ## `Requirements`
 * [Node.js](https://nodejs.org/en/)
 * [Git](https://git-scm.com/downloads)
