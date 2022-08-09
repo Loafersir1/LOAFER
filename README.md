@@ -4,7 +4,7 @@
   <a href="https://instagram.com/igx_loafer_x?igshid=YmMyMTA2M2Y="><img src="https://i.imgur.com/gcXUXqi.jpeg" width="500" alt="Profile"/> </a>
 </p>
 <p align="center">
-LOAFER Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/LOAFER 🍭.
+LOAFER Bot Multi Device is a automated whatsapp bot created by LOAFER
 </p>
 
 ## ```Connect With Me```
