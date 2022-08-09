@@ -21,7 +21,7 @@ LOAFER Bot Multi Device is a automated whatsapp bot created by LOAFER
 - FORK THE REPOSITORY [Here](https://github.com/Loafersir1/LOAFER)
 
 ## `Scan QR Code For Session`
-[![LOAFER SER Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@LOAFER/SER-MD#index.js)
+[![Null Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@WINDROYT/NULL-MD#index.js)
 
 ## ` BUILDPACKS`
 
